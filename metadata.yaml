@@ -1,0 +1,31 @@
+_repo: The-May-Flower-and-Miscellaneous-Writings_31390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+title: The May Flower, and Miscellaneous Writings
+url: http://www.gutenberg.org/ebooks/31390

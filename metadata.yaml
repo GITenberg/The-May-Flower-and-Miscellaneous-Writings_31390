@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31390#The-May-Flower-and-Miscellaneous-Writings
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
